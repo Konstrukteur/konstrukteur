@@ -10,7 +10,7 @@
 
 ### Using the following tools:
 
-<img src="https://media.idownloadblog.com/wp-content/uploads/2016/02/terminal-app-icon-OS-X.png" style="width: 48px;"/><img src="https://img.icons8.com/fluency/48/null/sublime-text.png"/><img src="http://www.sublimetext.com/images/merge_icon.svg" style="width: 36px; height: 36px;"/><img src="https://img.icons8.com/color/48/null/visual-studio-code-2019.png"/><img src="https://img.icons8.com/color/48/null/git.png"/>
+<img src="https://media.idownloadblog.com/wp-content/uploads/2016/02/terminal-app-icon-OS-X.png" style="width: 48px;"/><img src="https://img.icons8.com/fluency/48/null/sublime-text.png"/><img src="http://www.sublimetext.com/images/merge_icon.svg" style="width: 48px; height: 48px;  padding:6px;"/><img src="https://img.icons8.com/color/48/null/visual-studio-code-2019.png"/><img src="https://img.icons8.com/color/48/null/git.png"/>
 
 <!-- [![Top Langs](https://github-readme-stats-eight-rho-15.vercel.app/api/top-langs/?username=Konstrukteur&layout=compact&theme=transparent&langs_count=6)](https://github.com/anuraghazra/github-readme-stats) -->
 [![Top Langs](https://github-readme-stats-eight-rho-15.vercel.app/api/top-langs/?username=Konstrukteur&count_private=true&layout=compact&theme=transparent&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
