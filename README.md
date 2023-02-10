@@ -2,7 +2,7 @@
 
 ### Projects developed with:
 
-<img src="https://img.icons8.com/color/48/null/javascript--v1.png"/><img src="https://img.icons8.com/color/48/null/python--v1.png"/><img src="https://ruby-lang.org/images/header-ruby-logo.png" style="width: 48px;"/>
+<img src="https://img.icons8.com/color/48/null/javascript--v1.png"/><img src="https://img.icons8.com/color/48/null/python--v1.png"/><img src="https://duckduckgo.com/i/f9101877.png" style="width: 48px;"/>
 
 and a bit of:
 
