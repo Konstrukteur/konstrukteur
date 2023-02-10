@@ -2,7 +2,7 @@
 
 ### Projects developed with:
 
-<img src="https://img.icons8.com/color/48/null/javascript--v1.png"/><img src="https://img.icons8.com/color/48/null/python--v1.png"/><img src="https://duckduckgo.com/i/f9101877.png" style="width: 48px; padding:4px; margin:4px;"/><img src="https://img.icons8.com/color/48/null/html-5--v1.png"/><img src="https://img.icons8.com/fluency/48/null/css3.png"/><img src="https://img.icons8.com/color/48/null/sass.png"/>
+<img src="https://img.icons8.com/color/48/null/javascript--v1.png"/><img src="https://img.icons8.com/color/48/null/python--v1.png"/><div style="padding:4px; margin:4px;"><img src="https://duckduckgo.com/i/f9101877.png" style="width: 48px;"/></div><img src="https://img.icons8.com/color/48/null/html-5--v1.png"/><img src="https://img.icons8.com/fluency/48/null/css3.png"/><img src="https://img.icons8.com/color/48/null/sass.png"/>
 
 <!-- and a bit of:
 
