@@ -10,7 +10,7 @@ and a bit of:
 
 ### Using the following tools:
 
-<img src="https://media.idownloadblog.com/wp-content/uploads/2016/02/terminal-app-icon-OS-X.png" style="width: 48px;"/><img src ="https://sublimetext.comhttp://www.sublimetext.com/images/logo.svg" style="width: 48px;"/><img src="https://img.icons8.com/color/48/null/visual-studio-code-2019.png"/><img src="http://www.sublimetext.com/images/merge_icon.svg" style="width: 48px;"/><img src="https://img.icons8.com/color/48/null/git.png"/>
+<img src="https://media.idownloadblog.com/wp-content/uploads/2016/02/terminal-app-icon-OS-X.png" style="width: 48px;"/><img src ="https://sublimetext.com/images/logo.svg" style="width: 48px;"/><img src="https://img.icons8.com/color/48/null/visual-studio-code-2019.png"/><img src="http://www.sublimetext.com/images/merge_icon.svg" style="width: 48px;"/><img src="https://img.icons8.com/color/48/null/git.png"/>
 
 <!-- [![Top Langs](https://github-readme-stats-eight-rho-15.vercel.app/api/top-langs/?username=TheRealOwenRees&layout=compact&theme=transparent&langs_count=6)](https://github.com/anuraghazra/github-readme-stats) -->
 
