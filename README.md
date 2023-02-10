@@ -22,7 +22,7 @@ and a bit of:
 - [Country Roles Discord Bot](https://github.com/TheRealOwenRees/country-roles) - A Discord bot to add country roles functionality to your Discord server. -->
 
 <!-- ### Contributions: -->
-- [Sassy-Gulp-Yarned](https://github.com/LordFren/Sassy-Gulp-Yarned) - bug fixes, for issues that had halted development of this project for some time
+<!-- - [Sassy-Gulp-Yarned](https://github.com/LordFren/Sassy-Gulp-Yarned) - bug fixes, for issues that had halted development of this project for some time -->
 
 [![Owen Rees's GitHub stats](https://github-readme-stats-eight-rho-15.vercel.app/api?username=Konstrukteur&count_private=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
