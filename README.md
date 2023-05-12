@@ -14,6 +14,7 @@
 
 <!-- <img src="https://media.idownloadblog.com/wp-content/uploads/2016/02/terminal-app-icon-OS-X.png"/><img src="https://www.sublimehq.com/images/sublime_merge.png" style="width: 40px; height: 40px;"/> -->
 <!-- [![Top Langs](https://github-readme-stats-eight-rho-15.vercel.app/api/top-langs/?username=Konstrukteur&layout=compact&theme=transparent&langs_count=6)](https://github.com/anuraghazra/github-readme-stats) -->
+
 [![Top Langs](https://github-readme-stats-eight-rho-15.vercel.app/api/top-langs/?username=Konstrukteur&count_private=true&layout=compact&theme=transparent&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- ## Projects 🔭 -->
@@ -25,6 +26,6 @@
 <!-- ### Contributions: -->
 <!-- - [Sassy-Gulp-Yarned](https://github.com/LordFren/Sassy-Gulp-Yarned) - bug fixes, for issues that had halted development of this project for some time -->
 
-[![Owen Rees's GitHub stats](https://github-readme-stats-eight-rho-15.vercel.app/api?username=Konstrukteur&count_private=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+[![Konstrukteur's GitHub stats](https://github-readme-stats-eight-rho-15.vercel.app/api?username=Konstrukteur&count_private=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
 Icons courtesy of [Icons8](https://icons8.com/)
