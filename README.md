@@ -22,6 +22,6 @@
 
 <!-- ### Contributions: -->
 
-[![Konstrukteur's GitHub stats](https://github-readme-stats.vercel.app/api?username=Konstrukteur&count_private=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Konstrukteur's GitHub stats](https://github-readme-stats.vercel.app/api?username=Konstrukteur&count_private=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats) -->
 
 Icons courtesy of [Icons8](https://icons8.com/)
