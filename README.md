@@ -14,7 +14,7 @@
 
 <!-- <img src="https://media.idownloadblog.com/wp-content/uploads/2016/02/terminal-app-icon-OS-X.png"/><img src="https://www.sublimehq.com/images/sublime_merge.png" style="width: 40px; height: 40px;"/> -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Konstrukteur&count_private=true&layout=compact&theme=transparent&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Konstrukteur&count_private=true&layout=compact&theme=transparent&langs_count=6&exclude_repo=homebrew-Mojave-services,homebrew-Mojave-formulae,brew,homebrew-core,python_data_science)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- ## Projects 🔭 -->
 
